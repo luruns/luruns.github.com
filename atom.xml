@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://luruns.github.com/atom.xml" rel="self"/>
   <link href="http://luruns.github.com/"/>
-  <updated>2012-07-29T19:13:36+02:00</updated>
+  <updated>2012-07-29T21:18:17+02:00</updated>
   <id>http://luruns.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[New Post 2]]></title>
+    <link href="http://luruns.github.com/blog/2012/07/29/new-post-2/"/>
+    <updated>2012-07-29T21:15:00+02:00</updated>
+    <id>http://luruns.github.com/blog/2012/07/29/new-post-2</id>
+    <content type="html"><![CDATA[<p>2 nd post</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[New Post]]></title>
