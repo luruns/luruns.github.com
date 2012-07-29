@@ -1,0 +1,8 @@
+---
+layout: post
+title: "New Post 2"
+date: 2012-07-29 21:15
+comments: true
+categories: 
+---
+2 nd post
